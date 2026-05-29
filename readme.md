@@ -32,13 +32,6 @@ The goal was to make journals feel alive.
 
 ---
 
-## Current Status
-
-Archived.
-
-Development stopped after the initial prototype and AI memory experiments.
-
----
 
 ## Future Ideas
 
@@ -47,9 +40,3 @@ Development stopped after the initial prototype and AI memory experiments.
 - Emotion clustering
 - Memory "echoes"
 - Ambient reading mode
-
----
-
-## Screenshot
-
-Coming soon.
