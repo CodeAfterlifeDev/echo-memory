@@ -29,6 +29,7 @@ The goal was to make journals feel alive.
 - Tailwind CSS
 - Prisma
 - OpenAI API
+- firebase
 
 ---
 
