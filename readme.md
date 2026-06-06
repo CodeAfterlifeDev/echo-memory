@@ -37,6 +37,7 @@ The goal was to make journals feel alive.
 ## Future Ideas
 
 - Voice memory entries
+- some futuristic ideas
 - Timeline decay visualization
 - Emotion clustering
 - Memory "echoes"
